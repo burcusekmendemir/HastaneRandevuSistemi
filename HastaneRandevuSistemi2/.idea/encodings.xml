@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/Runner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/Runner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Brans.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Brans.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Doktor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Doktor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Hasta.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Hasta.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Randevu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Randevu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/BransRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/BransRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/DoktorRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/DoktorRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/HastaRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/HastaRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/ICrud.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/ICrud.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/RandevuRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/RandevuRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/RepositoryManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/RepositoryManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/service/DoktorService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/service/DoktorService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/service/HastaService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/service/HastaService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/utility/Create/CreateRepoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/utility/enums/Branslar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/utility/enums/Cinsiyet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/utility/enums/Unvan.java" charset="UTF-8" />
+  </component>
+</project>
